@@ -1,4 +1,4 @@
-# Ombré
+# :rainbow: Ombré
 A simple linear gradient generator
 
 ## To Use
